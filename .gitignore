@@ -1,0 +1,6 @@
+build/
+/CMakeFiles/
+results/
+*.o
+*.csv
+.DS_Store
